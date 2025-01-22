@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+* {
+  font-family: 'Outfit', sans-serif; /* Optional if you want to set Outfit as default */
+}
+
+.font-Ovo {
+  font-family: 'Ovo', serif;
+}
